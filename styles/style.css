@@ -256,7 +256,7 @@ html::-webkit-scrollbar-thumb {
 .main {
     margin-top: 70px;
     position: relative;
-    z-index: 4;
+    z-index: 6;
 }
 
 .main .container {
